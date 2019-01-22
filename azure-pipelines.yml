@@ -7,7 +7,7 @@ resources:
   repositories:
   - repository: p770242  # identifier (A-Z, a-z, 0-9, and underscore)
     type: github  # see below
-    name: p770242/MM.SalesTools.Services.CrmService/  # repository name (format depends on `type`)
+    name: p770242/MM.SalesTools.Services.CrmService  # repository name (format depends on `type`)
     ref: refs/heads/master  # ref name to use, defaults to 'refs/heads/master'
     endpoint: NABGithub  # name of the service connection to use (for non-Azure Repos types)
 
