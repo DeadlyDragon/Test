@@ -12,7 +12,7 @@ resources:
     endpoint: NABGithub  # name of the service connection to use (for non-Azure Repos types)
 
 trigger:
-- master
+- integration
 
 pool:
   default
