@@ -6,7 +6,7 @@
 trigger:
 - integration
 
-pool:
+queue:
   default
 
 steps:
